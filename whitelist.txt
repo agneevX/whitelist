@@ -2,6 +2,7 @@
 
 ## NEW
 chtbl.com
+snappytvpoc-vh.akamaihd.net
 
 ## EXISTING
 0.client-channel.google.com

@@ -13,5 +13,5 @@ A [anudeepND/whitelist](https://github.com/anudeepND/whitelist) fork, adding mor
 Add the following link as a whitelist to Pi-hole or AdGuard Home:
 
 ```url
-https://raw.githubusercontent.com/agneevX/whitelist/master/domains/whitelist.txt
+https://raw.githubusercontent.com/agneevX/whitelist/master/whitelist.txt
 ```
