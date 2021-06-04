@@ -7,7 +7,6 @@ snappytvpoc-vh.akamaihd.net
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
-akamaihd.net
 akamaitechnologies.com
 akamaized.net
 amazonaws.com
@@ -153,7 +152,7 @@ status.plex.tv
 t.co
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
-tawk.to
+tawk.co
 tedcdn.com
 themoviedb.com
 thetvdb.com
